@@ -33,12 +33,12 @@ namespace ChallengePhunWithStrings
                  output1 += input1[i];
 
                  resultLabel.Text = output1;  
-             } 
-              
+             }
 
 
-            //CHALLENGE 2: Reverse this Sequence of names.
-             string names =  "Luke, Leia, Han, Chewbacca" ;
+
+                //CHALLENGE 2: Reverse this Sequence of names.
+                string names =  "Luke, Leia, Han, Chewbacca" ;
              string[] initialNames = names.Split(',');
              string finalResult = "";
 
