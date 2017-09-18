@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
